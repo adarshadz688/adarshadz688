@@ -13,7 +13,7 @@
 - 🌱 Currently learning **Java, DSA, Full Stack Development**
 - 💻 Interested in **Web Development, AI, Cloud Computing**
 - 🚀 Passionate about building real-world projects
-- 📫 Reach me: **your-email@example.com**
+- 📫 Reach me: **your-adarshadz688@gmail.com**
 
 ---
 
